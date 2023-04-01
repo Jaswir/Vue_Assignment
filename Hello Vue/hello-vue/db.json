@@ -1,0 +1,19 @@
+{
+    "meals": [
+        {
+            "id": 1,
+            "ProductName": "Mouse",
+            "Price": 15.99
+        },
+        {
+            "id": 2,
+            "ProductName": "Keyboard",
+            "Price": 23.99
+        },
+        {
+            "id": 3,
+            "ProductName": "Monitor",
+            "Price": 99.99
+        }
+    ]
+}
